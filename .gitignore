@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+*.png
+*.html
+.streamlit/
+venv/
+env/
+.env
+.DS_Store
+recursive_circles.py
+recursive_circles_pil.py
